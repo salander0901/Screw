@@ -1,0 +1,12 @@
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">  
+    <item android:maxLevel="0" android:drawable="@drawable/screw_0" />  
+    <item android:maxLevel="1" android:drawable="@drawable/screw_1_1" />
+    <item android:maxLevel="3" android:drawable="@drawable/screw_2_3" />
+    <item android:maxLevel="7" android:drawable="@drawable/screw_3_7" />
+    <item android:maxLevel="15" android:drawable="@drawable/screw_4_15" />
+    <item android:maxLevel="16" android:drawable="@drawable/screw_1_16" />    
+    <item android:maxLevel="24" android:drawable="@drawable/screw_2_24" />
+    <item android:maxLevel="28" android:drawable="@drawable/screw_3_28" />
+    <item android:maxLevel="30" android:drawable="@drawable/screw_4_30" />
+    <item android:maxLevel="31" android:drawable="@drawable/screw_5" />  
+</level-list>  
